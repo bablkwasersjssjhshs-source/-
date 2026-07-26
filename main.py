@@ -6,7 +6,7 @@ from aiogram.filters import CommandStart
 from aiogram.enums import ChatMemberStatus
 
 # --- НАСТРОЙКИ БОТА ---
-BOT_TOKEN = "7923105044:AAELwiSxcZL86uxyijSNKHFFC7cmfpymPiE"
+BOT_TOKEN = "8644490388:AAED4r_yPSIvuvAHfW7Vockt984IuE2mezU"
 CHANNEL_ID = "@твой_канал" 
 CHANNEL_URL_1 = "https://t.me/+rm9ZM7u3KsBmZDRi" 
 CHANNEL_URL_2 = "https://t.me/+eUKLegwNZLRhZjYx" 
